@@ -11,12 +11,14 @@ puede descagar y ejecutar el proyecto o utilizar el link de render
 
 
 ### 1. POST `/mutant`
-#### Ejemplo de Secuencia Mutante
+#### Ejemplo de Secuencias
 ```json
+mutante:<br>
 {
   "dna": ["ATGCGC", "CAGTGC", "TTATGG", "AGAAGG", "CCCCTA", "TCACTG"]
 }
-#### Ejemplo de Secuencia Humana
+humana:<br>
+```json
 {
   "dna": ["ATGCGA", "CAGTGC", "TTATTT", "AGACGG", "GCGTCA", "TCACTG"]
 }
