@@ -24,7 +24,7 @@ Mutante:
 
 {
   "dna": ["ATGCGC", "CAGTGC", "TTATGG", "AGAAGG", "CCCCTA", "TCACTG"]
-}
+} <br>
 Humano:
 
 {
